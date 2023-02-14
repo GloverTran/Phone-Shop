@@ -1,0 +1,33 @@
+@charset "UTF-8";
+*{
+	box-sizing: border-box;
+}
+
+.welcome {
+ background-image: url("1045.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 25%;
+  height:100%;
+
+}
+
+.topnav a:hover {
+	background-color: #8080ff;
+	color: black;
+}
+
+.navitem{
+	width:100%;
+}
+
+i{
+	padding-left: 5% !important;
+}
+
+.head{
+	float:left;
+}
+
+.b{
+	float:right;
+}
